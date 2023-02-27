@@ -1,0 +1,46 @@
+nav {
+  background-color: darkblue;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+nav li {
+  float: left;
+}
+
+nav li a {
+  display: block; 
+  color: white; 
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+nav li a:hover {
+  background-color: blue;
+}
+
+body {
+  background-color: aquamarine;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+h2 {
+  color: black;
+  text-align: center;
+}
+
+h3, h4 {
+  font-weight: normal;
+}
+
+p {
+  color: black;
+  text-align: center;
+}
